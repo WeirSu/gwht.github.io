@@ -9,8 +9,23 @@ layout: "simple"
 
 ---
 
-####  **<iconify-icon icon="duo-icons:fire" style="font-size: 22px; vertical-align: middle; margin-bottom: 4px;margin-right: 3px"></iconify-icon> 2025 年**
-- 第九届*上海市大学生网络安全大赛暨 “磐石行动”2024 第二届全国高校网络安全邀请赛* 决赛— **二等奖**
+
+
+####  **<iconify-icon icon="duo-icons:fire" style="font-size: 22px; vertical-align: middle; margin-bottom: 4px;margin-right: 3px"></iconify-icon> 2026 年**
+
+- 2026软件系统安全赛 决赛 二等奖
+- 2026年第三届“长城杯”网数智安全大赛（防护赛）决赛 — 二等奖
+- 2026数字中国创新大赛数字安全赛道网络和数据安全积分争夺团队赛决赛 — 金奖
+- 2026年第十九届全国大学生信息安全竞赛暨第三届“长城杯”铁人三项赛半决赛 — 一等奖
+
+
+
+
+
+####  **<iconify-icon icon="ep:magic-stick" style="font-size: 22px; vertical-align: middle; margin-bottom: 4px;margin-right: 3px"></iconify-icon> 2025 年**
+
+- 2025年第三届“陇剑杯”网络安全大赛决赛 — 优胜奖
+- 第九届*上海市大学生网络安全大赛暨 “磐石行动”2024 第二届全国高校网络安全邀请赛* 决赛 — **二等奖**
 - 第八届 *西湖论剑·中国杭州网络安全技能大赛* 决赛 — **二等奖**
 - 第二届 *“长城杯”信息安全铁人三项赛（防护赛）* 总决赛 — **二等奖**
 - 第十八届 *全国大学生信息安全竞赛* 决赛 — **二等奖**
